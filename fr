@@ -1,0 +1,5 @@
+{
+      "test.message":"FRENCH: This is a cool site",
+      "test.message2":"FRENCH: This is actually working!",
+      "test.message3":"FRENCH: Wow, Finley - you're amazing!"
+  }
